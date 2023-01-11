@@ -3,7 +3,7 @@
 This is a public repo for reproducing the broken decoding issue in fuel blockchain.
 
 # STEPS TO DO 
-1. Add the fuel wallet extenstion in your browser
+1. Add the fuel wallet extenstion in your browser (https://fuels-wallet.vercel.app/) 
 2. Get some eth from faucet
 3. Connect the wallet 
 4. Mint the nft
