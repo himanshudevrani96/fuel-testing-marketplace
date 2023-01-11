@@ -2,6 +2,14 @@
 
 This is a public repo for reproducing the broken decoding issue in fuel blockchain.
 
+# STEPS TO DO 
+1. Add the fuel wallet extenstion in your browser
+2. Get some eth from faucet
+3. Connect the wallet 
+4. Mint the nft
+5. Sell the Nft
+6. Get the response as an error
+
 ## Available Scripts
 
 In the project directory, you can run:
